@@ -1,0 +1,24 @@
+{
+    "headers":[
+        {
+            "name":"Company",
+            "path":"/company"
+        },
+        {
+            "name":"Product",
+            "path":"/product"
+        },
+        {
+            "name":"Developers",
+            "path":"/developers"
+        },
+        {
+            "name":"Knowledge",
+            "path":"/knowledge"
+        },
+        {
+            "name":"Platform",
+            "path":"/platform"
+        }
+    ]
+}
